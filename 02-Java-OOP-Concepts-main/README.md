@@ -2202,7 +2202,7 @@ The goal of these repositories is to provide learners with reliable, beginner-fr
 
 Let's connect and grow together in the software development community.
 
-- GitHub: https://github.com/shaikbasha-dev
+- GitHub: https://github.com/smbashadev
 - LinkedIn: https://www.linkedin.com/in/shaikbasha-dev/
 - Email: smbashadev@gmail.com
 
